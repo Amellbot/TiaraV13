@@ -25,15 +25,15 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "Amell-Bot" //namabot kalian
-global.ownername= "ᴀᴍᴇʟʟ ᴀʜʜ" //nama kalian
+global.ownername= "𝙋𝙀𝙈𝘽𝙀𝙍𝙄𝙏𝘼𝙃𝙐𝘼𝙉 𝙋𝙀𝙉𝙏𝙄𝙉𝙂 : Bisakah Anda Tidak 𝗦𝗣𝗔𝗠 Bot?? Jika hal Itu Terjadi Maka Nomor Kamu Akan Di [𝗕𝗔𝗡𝗡𝗘𝗗 𝗢𝗟𝗘𝗛 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣] Contac US : http://wa.me/+1(506)4043432" //nama kalian
 global.myweb ="https://api.amel.xyn" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/Amelia" //bebas asal jan hapus
 global.github = "https://Amell.github.io/" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Jakarta' //  timezone wib
+global.timezone = 'Erouoa/Amerika' //  timezone wib
 global.premium = ['15064043432'] //premium user
-global.owner = ["15064043432","6285342106390"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["15064043432","15064043432"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "15064043432" // nomor wa kalian
 global.ownernomerr = "+15064043432" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
@@ -57,7 +57,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🍓W A I T..~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
